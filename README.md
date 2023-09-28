@@ -1,2 +1,3 @@
-with tailwind css
-Link Portfolio > https://nathanady.github.io/nathPortfolio/
+With tailwind css
+
+Link Portfolio 👉 https://nathanady.github.io/nathPortfolio/
